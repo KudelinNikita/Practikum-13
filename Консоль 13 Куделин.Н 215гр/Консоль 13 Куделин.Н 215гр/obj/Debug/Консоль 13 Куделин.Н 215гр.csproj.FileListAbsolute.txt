@@ -1,0 +1,7 @@
+C:\Users\Kab-35-16\source\repos\Консоль 13 Куделин.Н 215гр\Консоль 13 Куделин.Н 215гр\obj\Debug\Консоль 13 Куделин.Н 215гр.csproj.AssemblyReference.cache
+C:\Users\Kab-35-16\source\repos\Консоль 13 Куделин.Н 215гр\Консоль 13 Куделин.Н 215гр\obj\Debug\Консоль 13 Куделин.Н 215гр.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\source\repos\Консоль 13 Куделин.Н 215гр\Консоль 13 Куделин.Н 215гр\bin\Debug\Консоль 13 Куделин.Н 215гр.exe.config
+C:\Users\Kab-35-16\source\repos\Консоль 13 Куделин.Н 215гр\Консоль 13 Куделин.Н 215гр\bin\Debug\Консоль 13 Куделин.Н 215гр.exe
+C:\Users\Kab-35-16\source\repos\Консоль 13 Куделин.Н 215гр\Консоль 13 Куделин.Н 215гр\bin\Debug\Консоль 13 Куделин.Н 215гр.pdb
+C:\Users\Kab-35-16\source\repos\Консоль 13 Куделин.Н 215гр\Консоль 13 Куделин.Н 215гр\obj\Debug\Консоль 13 Куделин.Н 215гр.exe
+C:\Users\Kab-35-16\source\repos\Консоль 13 Куделин.Н 215гр\Консоль 13 Куделин.Н 215гр\obj\Debug\Консоль 13 Куделин.Н 215гр.pdb
